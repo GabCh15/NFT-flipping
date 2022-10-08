@@ -11,7 +11,7 @@ interface IInfoHoverModal {
 
 const InfoHoverModal = ({ description }: IInfoHoverModal) => {
   return (
-    <div className="absolute bg-black bg-opacity-95 p-5 rounded-md -right-32 top-16 z-10 max-w-xs">
+    <div className="absolute bg-black bg-opacity-95 p-5 rounded-md -right-32 top-16 z-10 max-w-xs bg-blur-sm">
       <p>{description.details}</p>
       {
         description.strategy

@@ -19,7 +19,7 @@ const vault: NextPage = () => {
       </Head>
 
       <main>
-        <Header textAuxButton="Vault" href='/vault' />
+        <Header />
         <Section title='VAULT' content={<VaultList />} description={description} />
       </main>
     </div>

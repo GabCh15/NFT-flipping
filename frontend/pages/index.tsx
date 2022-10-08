@@ -24,7 +24,7 @@ const Home: NextPage = () => {
       </Head>
 
       <main>
-        <Header textAuxButton="Vault" href='/vault'/>
+        <Header textAuxButton="Decentraland Land Vault" href='/vault'/>
         <Section title='DECENTRALAND LAND FLIPPING STRATEGY' content={<Founding image='/images/founding-img-test.png'/>} description={description}/>
       </main>
     </div>
