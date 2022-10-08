@@ -33,10 +33,9 @@ const Section = ({ title, description, content }: ISection) => {
         <span
           onMouseEnter={onHover}
           onMouseLeave={onLeave}
-        ><BsInfoCircle className='peer' />
+        ><BsInfoCircle className='cursor-pointer' />
         </span>
         {hover ? <InfoHoverModal description={description}/> : ''}
-        <p className='hidden peer-hover:block'>Holiwis</p>
       </div>
       <div className="w-max-md bg-black bg-opacity-80 py-5 px-10 rounded-b-md w-[700px]">
         {content}
