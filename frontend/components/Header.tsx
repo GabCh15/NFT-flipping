@@ -13,7 +13,7 @@ const Header = ({ textAuxButton, href }: IHeader) => {
     <nav className="shadow w-100 px-8 md:px-auto w-full py-2 absolute bg-opacity-70 bg-black">
       <div className="md:h-16 h-28 mx-auto md:px-4 container flex items-center justify-between flex-wrap md:flex-nowrap">
         <div className="text-indigo-500 md:order-1 w-full">
-          <Link href={'/'} className='cursor-pointer'>
+          <Link href='/' className='cursor-pointer' dir="/">
             <Image
               //width={20} height={20}
               src={"https://www.metagamehub.io/images/Logos/MGH/webp/mgh_logo.webp"}

@@ -6,6 +6,15 @@ import Section from '../components/Section'
 import Founding from '../components/Staking/Founding'
 
 const Home: NextPage = () => {
+  const description = {
+    details: '',
+    strategy: 'Acquire LANDs that are listed 20% higher that the floor price at most.',
+    fees: {
+      management: '2.0',
+      success: '5.0'
+    }
+  }
+
   return (
     <div >
       <Head>
@@ -16,7 +25,7 @@ const Home: NextPage = () => {
 
       <main>
         <Header textAuxButton="Vault" href='/vault'/>
-        <Section title='METAVERSE LAND VAULT 1' content={<Founding image='/images/founding-img-test.png'/>} description=""/>
+        <Section title='DECENTRALAND LAND FLIPPING STRATEGY' content={<Founding image='/images/founding-img-test.png'/>} description={description}/>
       </main>
     </div>
   )

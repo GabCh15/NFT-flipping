@@ -3,9 +3,13 @@ import Head from 'next/head'
 
 import Header from '../components/Header'
 import Section from '../components/Section'
-import Founding from '../components/Staking/Founding'
+import VaultList from '../components/Vault/VaultList'
 
 const vault: NextPage = () => {
+  const description = {
+    details: 'Stored lands'
+  }
+
   return (
     <div >
       <Head>
@@ -16,7 +20,7 @@ const vault: NextPage = () => {
 
       <main>
         <Header textAuxButton="Vault" href='/vault' />
-        <Section title='VAULT' content={<Founding image='/images/founding-img-test.png' />} description="" />
+        <Section title='VAULT' content={<VaultList />} description={description} />
       </main>
     </div>
   )

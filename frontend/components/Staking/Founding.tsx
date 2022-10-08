@@ -10,8 +10,8 @@ interface IFounding {
 const Founding = ({ image }: IFounding) => {
   return (
     <div className="flex flex-col">
-      <div className="w-full flex justify-center">
-        <Image src={image} width={200} height={200} layout="fixed" className="justify-self-center self-center" />
+      <div className="w-full flex justify-center mb-4">
+        <Image src={image} width={330} height={200} layout="fixed" className="justify-self-center self-center" />
       </div>
       <Description
         deadline="tomorrow"
