@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@opensea/seaport-js": "^1.0.8",
+    "@openzeppelin/contracts": "^4.7.3",
+    "api": "^4.5.2",
+    "axios": "^1.1.2",
+    "ethers": "^5.7.1"
+  }
+}
