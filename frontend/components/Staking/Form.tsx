@@ -19,8 +19,10 @@ const Form = () => {
           id="eth-to-lock"
           type="number"
           placeholder="0.0"
-          value={value}
-          onChange={handleChange}
+          max={1000}
+          min={0}
+          //value={value}
+          //onChange={handleChange}
         />
       </div>
       <div className="md:flex md:flex-col md:items-center py-2 md:col-span-2 bg-[#202429] rounded-r-xl">
