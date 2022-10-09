@@ -29,13 +29,13 @@ async function useConnectWeb3Admin() {
             consideration: [
                 {
                     amount: ethers.utils
-                        .parseEther(`${1 * 0.975}`)
+                        .parseEther(`${0.001 * 0.975}`)
                         .toString(),
                     recipient: admin_public_key,
                 },
                 {
                     amount: ethers.utils
-                        .parseEther(`${1 * 0.025}`)
+                        .parseEther(`${0.001 * 0.025}`)
                         .toString(),
                     recipient: '0x0000a26b00c1F0DF003000390027140000fAa719',
                 },
