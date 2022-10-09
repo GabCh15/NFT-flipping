@@ -20,7 +20,7 @@ const vault: NextPage = () => {
 
       <main>
         <Header />
-        <Section title='VAULT' content={<VaultList />} description={description} />
+        <Section title='VAULT' content={<VaultList />} description={description} centered={false}/>
       </main>
     </div>
   )

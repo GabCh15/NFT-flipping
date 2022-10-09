@@ -25,7 +25,7 @@ const Home: NextPage = () => {
 
       <main>
         <Header textAuxButton="Decentraland Land Vault" href='/vault'/>
-        <Section title='DECENTRALAND LAND FLIPPING STRATEGY' content={<Founding image='/images/founding-img-test.png'/>} description={description}/>
+        <Section title='DECENTRALAND LAND FLIPPING STRATEGY' content={<Founding image='/images/founding-img-test.png'/>} description={description} centered={true }/>
       </main>
     </div>
   )

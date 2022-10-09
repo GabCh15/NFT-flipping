@@ -14,9 +14,10 @@ interface ISection {
     }
   },
   content: React.ReactNode
+  centered: boolean
 }
 
-const Section = ({ title, description, content }: ISection) => {
+const Section = ({ title, description, content, centered }: ISection) => {
   const [hover, setHover] = useState(false);
   const onHover = () => {
     setHover(true);
@@ -27,8 +28,8 @@ const Section = ({ title, description, content }: ISection) => {
   };
 
   return (
-    <div className="w-full flex flex-col items-center h-screen justify-center pt-20 ">
-      <div className=" flex px-10 py-5 bg-[#262D36] bg-opacity-90 w-[400px] md:w-[700px] rounded-t-md justify-between items-center relative">
+    <div className={"w-full flex flex-col items-center h-screen pt-20 mb-32 md:mb-0" + (centered && ' justify-center')}>
+      <div className="flex px-10 py-5 bg-[#262D36] bg-opacity-90 w-[400px] md:w-[700px] rounded-t-md justify-between items-center relative mt-32 md:mt-0">
         <h1 className="text-2xl font-bold">{title}</h1>
         <span
           onMouseEnter={onHover}
