@@ -1,1 +1,65 @@
-{"_id":"62fba3446a5a80ffc14ca8fe","token_id":"17","__v":0,"best_offered_price":{"price":0.004,"eth_price":0.004,"symbol":""},"current_price":{"price":1.85,"eth_price":1.85,"symbol":"ETH"},"last_sale":null,"owner":{"user":null,"profile_img_url":"https://storage.googleapis.com/opensea-static/opensea-profile/30.png","address":"0x959e104e1a4db6317fa58f8295f586e1a978c297","config":""},"placed_orders":{"listings":[{"price":1.85,"order_hash":"0x11ab2ba430453a4e25d6ab78f97fa446b5c56ec7555c18c6e0c704d5945ef8b5","listing_time":1664783740,"expiration_time":1665388540,"created_date":"2022-10-03T07:57:51.792111","closing_date":"2022-10-10T07:55:40","maker":{"user":26044791,"profile_img_url":"https://storage.googleapis.com/opensea-static/opensea-profile/21.png","address":"0xb7e8d69a8f80052080ff780a25daa2d03318cd49","config":""},"taker":null,"side":"ask","symbol":"ETH","eth_price":1.85}],"offers":[]},"traits":[{"trait_type":"X","value":77,"display_type":"number","max_value":null,"trait_count":308,"order":null},{"trait_type":"Y","value":-106,"display_type":"number","max_value":null,"trait_count":301,"order":null}],"name":"Parcel -43,-104","image":"https://lh3.googleusercontent.com/FqFCJdWWOHhs_KVCtegxRCzQt0kG6KA1DNYswcYEC_HrmVC_AEYx6JteGeZ5BhvBJd1l22fP-OnqGPLzBdpYZAATWnHYBBKluOsMGA"}
+{
+    "_id": "62fba3446a5a80ffc14ca8fe",
+    "token_id": "17",
+    "__v": 0,
+    "best_offered_price": {
+        "price": 0.004,
+        "eth_price": 0.004,
+        "symbol": ""
+    },
+    "current_price": {
+        "price": 1.85,
+        "eth_price": 1.85,
+        "symbol": "ETH"
+    },
+    "last_sale": null,
+    "owner": {
+        "user": null,
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/30.png",
+        "address": "0x959e104e1a4db6317fa58f8295f586e1a978c297",
+        "config": ""
+    },
+    "placed_orders": {
+        "listings": [
+            {
+                "price": 1.85,
+                "order_hash": "0x11ab2ba430453a4e25d6ab78f97fa446b5c56ec7555c18c6e0c704d5945ef8b5",
+                "listing_time": 1664783740,
+                "expiration_time": 1665388540,
+                "created_date": "2022-10-03T07:57:51.792111",
+                "closing_date": "2022-10-10T07:55:40",
+                "maker": {
+                    "user": 26044791,
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/21.png",
+                    "address": "0xb7e8d69a8f80052080ff780a25daa2d03318cd49",
+                    "config": ""
+                },
+                "taker": null,
+                "side": "ask",
+                "symbol": "ETH",
+                "eth_price": 1.85
+            }
+        ],
+        "offers": []
+    },
+    "traits": [
+        {
+            "trait_type": "X",
+            "value": 77,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 308,
+            "order": null
+        },
+        {
+            "trait_type": "Y",
+            "value": -106,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 301,
+            "order": null
+        }
+    ],
+    "name": "Parcel 17",
+    "image": "https://lh3.googleusercontent.com/glfTsPit-TiHsVCNyBkyTLfyWxaQ7t5uoUXB5y8Kga6TB5Rit0Dd-5wgcR8XzRucYf6Tuf-if0h3NQ_FKqK5kcBtO4ZaPCXI_C0bxQ"
+}

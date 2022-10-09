@@ -1,1 +1,76 @@
-{"_id":"62fba3496a5a80ffc14cb18e","token_id":"27","__v":0,"current_price":{"price":5,"eth_price":5,"symbol":"ETH"},"last_sale":{"timestamp":1659717982000,"price":3995.0000000000005,"eth_price":2.0956172,"usd_price":2786.7002650000004,"symbol":"MANA"},"owner":{"user":{"username":"moolahbtc"},"profile_img_url":"https://storage.googleapis.com/opensea-static/opensea-profile/13.png","address":"0x72b2a07ea578cc92f9024be2501c7f295f227ec2","config":""},"placed_orders":{"listings":[{"price":5,"order_hash":"0xfa65367c3ad1386487a4c8a3c7b3e0f8cb6c074f57b248120a6df4532989a82c","listing_time":1659999884,"expiration_time":1675555484,"created_date":"2022-08-08T23:05:41.571623","closing_date":"2023-02-05T00:04:44","maker":{"user":2450894,"profile_img_url":"https://storage.googleapis.com/opensea-static/opensea-profile/13.png","address":"0x72b2a07ea578cc92f9024be2501c7f295f227ec2","config":""},"taker":null,"side":"ask","symbol":"ETH","eth_price":5}],"offers":[]},"traits":[{"trait_type":"Y","value":-118,"display_type":"number","max_value":null,"trait_count":301,"order":null},{"trait_type":"X","value":110,"display_type":"number","max_value":null,"trait_count":309,"order":null},{"trait_type":"Type","value":"Land","display_type":null,"max_value":null,"trait_count":92596,"order":null}],"name":"Parcel -43,-104","image":"https://lh3.googleusercontent.com/FqFCJdWWOHhs_KVCtegxRCzQt0kG6KA1DNYswcYEC_HrmVC_AEYx6JteGeZ5BhvBJd1l22fP-OnqGPLzBdpYZAATWnHYBBKluOsMGA"}
+{
+    "_id": "62fba3496a5a80ffc14cb18e",
+    "token_id": "27",
+    "__v": 0,
+    "current_price": {
+        "price": 5,
+        "eth_price": 5,
+        "symbol": "ETH"
+    },
+    "last_sale": {
+        "timestamp": 1659717982000,
+        "price": 3995.0000000000005,
+        "eth_price": 2.0956172,
+        "usd_price": 2786.7002650000004,
+        "symbol": "MANA"
+    },
+    "owner": {
+        "user": {
+            "username": "moolahbtc"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/13.png",
+        "address": "0x72b2a07ea578cc92f9024be2501c7f295f227ec2",
+        "config": ""
+    },
+    "placed_orders": {
+        "listings": [
+            {
+                "price": 5,
+                "order_hash": "0xfa65367c3ad1386487a4c8a3c7b3e0f8cb6c074f57b248120a6df4532989a82c",
+                "listing_time": 1659999884,
+                "expiration_time": 1675555484,
+                "created_date": "2022-08-08T23:05:41.571623",
+                "closing_date": "2023-02-05T00:04:44",
+                "maker": {
+                    "user": 2450894,
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/13.png",
+                    "address": "0x72b2a07ea578cc92f9024be2501c7f295f227ec2",
+                    "config": ""
+                },
+                "taker": null,
+                "side": "ask",
+                "symbol": "ETH",
+                "eth_price": 5
+            }
+        ],
+        "offers": []
+    },
+    "traits": [
+        {
+            "trait_type": "Y",
+            "value": -118,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 301,
+            "order": null
+        },
+        {
+            "trait_type": "X",
+            "value": 110,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 309,
+            "order": null
+        },
+        {
+            "trait_type": "Type",
+            "value": "Land",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 92596,
+            "order": null
+        }
+    ],
+    "name": "Parcel 27",
+    "image": "https://lh3.googleusercontent.com/kltrqqe5smApPwDWGJ54sTUoDsgNgBW3Pg5YnPTtO6FxFAbCttuabWisA8_RxQJbDNo4gAU-i_mKSZExaxF-R4B1gXRbhQOPkGbiAHc"
+}

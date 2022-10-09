@@ -1,1 +1,100 @@
-{"_id":"62fba32c6a5a80ffc14c5ad9","token_id":"11","__v":0,"current_price":{"price":20,"eth_price":20,"symbol":"ETH"},"last_sale":{"timestamp":1642062218000,"price":5387,"eth_price":2.83846417,"usd_price":3757.136215,"symbol":"MANA"},"owner":{"user":{"username":"peterccung"},"profile_img_url":"https://storage.googleapis.com/opensea-static/opensea-profile/10.png","address":"0x3aebcf1cff75b70aef371a0e9a6e0fbd0a824190","config":""},"placed_orders":{"listings":[{"price":20,"order_hash":"0xc3475f2ff07ecbaa5c39ed0b1d1ea5a67d8257e9f43612da7a782316707bec26","listing_time":1664478907,"expiration_time":1667070907,"created_date":"2022-09-29T19:17:16.612822","closing_date":"2022-10-29T19:15:07","maker":{"user":1072274,"profile_img_url":"https://storage.googleapis.com/opensea-static/opensea-profile/10.png","address":"0x3aebcf1cff75b70aef371a0e9a6e0fbd0a824190","config":""},"taker":null,"side":"ask","symbol":"ETH","eth_price":20}],"offers":[]},"traits":[{"trait_type":"Type","value":"Land","display_type":null,"max_value":null,"trait_count":92596,"order":null},{"trait_type":"Distance to Road","value":5,"display_type":"number","max_value":null,"trait_count":2397,"order":null},{"trait_type":"Y","value":17,"display_type":"number","max_value":null,"trait_count":301,"order":null},{"trait_type":"Distance to District","value":2,"display_type":"number","max_value":null,"trait_count":1785,"order":null},{"trait_type":"Distance to Plaza","value":7,"display_type":"number","max_value":null,"trait_count":743,"order":null},{"trait_type":"X","value":-72,"display_type":"number","max_value":null,"trait_count":301,"order":null}],"name":"Parcel -43,-104","image":"https://lh3.googleusercontent.com/FqFCJdWWOHhs_KVCtegxRCzQt0kG6KA1DNYswcYEC_HrmVC_AEYx6JteGeZ5BhvBJd1l22fP-OnqGPLzBdpYZAATWnHYBBKluOsMGA"}
+{
+    "_id": "62fba32c6a5a80ffc14c5ad9",
+    "token_id": "11",
+    "__v": 0,
+    "current_price": {
+        "price": 20,
+        "eth_price": 20,
+        "symbol": "ETH"
+    },
+    "last_sale": {
+        "timestamp": 1642062218000,
+        "price": 5387,
+        "eth_price": 2.83846417,
+        "usd_price": 3757.136215,
+        "symbol": "MANA"
+    },
+    "owner": {
+        "user": {
+            "username": "peterccung"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/10.png",
+        "address": "0x3aebcf1cff75b70aef371a0e9a6e0fbd0a824190",
+        "config": ""
+    },
+    "placed_orders": {
+        "listings": [
+            {
+                "price": 20,
+                "order_hash": "0xc3475f2ff07ecbaa5c39ed0b1d1ea5a67d8257e9f43612da7a782316707bec26",
+                "listing_time": 1664478907,
+                "expiration_time": 1667070907,
+                "created_date": "2022-09-29T19:17:16.612822",
+                "closing_date": "2022-10-29T19:15:07",
+                "maker": {
+                    "user": 1072274,
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/10.png",
+                    "address": "0x3aebcf1cff75b70aef371a0e9a6e0fbd0a824190",
+                    "config": ""
+                },
+                "taker": null,
+                "side": "ask",
+                "symbol": "ETH",
+                "eth_price": 20
+            }
+        ],
+        "offers": []
+    },
+    "traits": [
+        {
+            "trait_type": "Type",
+            "value": "Land",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 92596,
+            "order": null
+        },
+        {
+            "trait_type": "Distance to Road",
+            "value": 5,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 2397,
+            "order": null
+        },
+        {
+            "trait_type": "Y",
+            "value": 17,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 301,
+            "order": null
+        },
+        {
+            "trait_type": "Distance to District",
+            "value": 2,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 1785,
+            "order": null
+        },
+        {
+            "trait_type": "Distance to Plaza",
+            "value": 7,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 743,
+            "order": null
+        },
+        {
+            "trait_type": "X",
+            "value": -72,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 301,
+            "order": null
+        }
+    ],
+    "name": "Parcel 11",
+    "image": "https://lh3.googleusercontent.com/t1NNtUp53kuDUuoCcw4th7BzzCrarLHYmyz-u3ZBbh_V0_xKEvKcjA23tGKpg5QtP-aSM3HPjaRQdBLtEanbeuzfhX9G9wpRYy-kGg"
+}

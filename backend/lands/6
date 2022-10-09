@@ -1,1 +1,100 @@
-{"_id":"62fba32c6a5a80ffc14c5749","token_id":"6","__v":0,"current_price":{"price":18,"eth_price":18,"symbol":"ETH"},"last_sale":{"timestamp":1529388019000,"price":24999.999999999996,"eth_price":13.148249999999997,"usd_price":17439.35,"symbol":"MANA"},"owner":{"user":{"username":"METAVEST-MEST"},"profile_img_url":"https://storage.googleapis.com/opensea-static/opensea-profile/26.png","address":"0x50cfe358462215d39437c41e3ccd3eac7f418884","config":""},"placed_orders":{"listings":[{"price":18,"order_hash":"0x2a0dfa416af9512a4385828ce8238ee21cf2bb7a4018e9df20debdad29145389","listing_time":1655819261,"expiration_time":1671374861,"created_date":"2022-06-21T13:49:59.772965","closing_date":"2022-12-18T14:47:41","maker":{"user":20038451,"profile_img_url":"https://storage.googleapis.com/opensea-static/opensea-profile/26.png","address":"0x50cfe358462215d39437c41e3ccd3eac7f418884","config":""},"taker":null,"side":"ask","symbol":"ETH","eth_price":18}],"offers":[]},"traits":[{"trait_type":"Distance to District","value":0,"display_type":"number","max_value":null,"trait_count":1099,"order":null},{"trait_type":"Y","value":48,"display_type":"number","max_value":null,"trait_count":301,"order":null},{"trait_type":"Distance to Plaza","value":3,"display_type":"number","max_value":null,"trait_count":598,"order":null},{"trait_type":"X","value":-73,"display_type":"number","max_value":null,"trait_count":301,"order":null},{"trait_type":"Distance to Road","value":1,"display_type":"number","max_value":null,"trait_count":4275,"order":null},{"trait_type":"Type","value":"Land","display_type":null,"max_value":null,"trait_count":92596,"order":null}],"name":"Parcel -43,-104","image":"https://lh3.googleusercontent.com/FqFCJdWWOHhs_KVCtegxRCzQt0kG6KA1DNYswcYEC_HrmVC_AEYx6JteGeZ5BhvBJd1l22fP-OnqGPLzBdpYZAATWnHYBBKluOsMGA"}
+{
+    "_id": "62fba32c6a5a80ffc14c5749",
+    "token_id": "6",
+    "__v": 0,
+    "current_price": {
+        "price": 18,
+        "eth_price": 18,
+        "symbol": "ETH"
+    },
+    "last_sale": {
+        "timestamp": 1529388019000,
+        "price": 24999.999999999996,
+        "eth_price": 13.148249999999997,
+        "usd_price": 17439.35,
+        "symbol": "MANA"
+    },
+    "owner": {
+        "user": {
+            "username": "METAVEST-MEST"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/26.png",
+        "address": "0x50cfe358462215d39437c41e3ccd3eac7f418884",
+        "config": ""
+    },
+    "placed_orders": {
+        "listings": [
+            {
+                "price": 18,
+                "order_hash": "0x2a0dfa416af9512a4385828ce8238ee21cf2bb7a4018e9df20debdad29145389",
+                "listing_time": 1655819261,
+                "expiration_time": 1671374861,
+                "created_date": "2022-06-21T13:49:59.772965",
+                "closing_date": "2022-12-18T14:47:41",
+                "maker": {
+                    "user": 20038451,
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/26.png",
+                    "address": "0x50cfe358462215d39437c41e3ccd3eac7f418884",
+                    "config": ""
+                },
+                "taker": null,
+                "side": "ask",
+                "symbol": "ETH",
+                "eth_price": 18
+            }
+        ],
+        "offers": []
+    },
+    "traits": [
+        {
+            "trait_type": "Distance to District",
+            "value": 0,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 1099,
+            "order": null
+        },
+        {
+            "trait_type": "Y",
+            "value": 48,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 301,
+            "order": null
+        },
+        {
+            "trait_type": "Distance to Plaza",
+            "value": 3,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 598,
+            "order": null
+        },
+        {
+            "trait_type": "X",
+            "value": -73,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 301,
+            "order": null
+        },
+        {
+            "trait_type": "Distance to Road",
+            "value": 1,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 4275,
+            "order": null
+        },
+        {
+            "trait_type": "Type",
+            "value": "Land",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 92596,
+            "order": null
+        }
+    ],
+    "name": "Parcel 6",
+    "image": "https://lh3.googleusercontent.com/McJ_YXYqTWRJcJgtmnCUjC-HtUmOy1dru9o0p-NC1tHQ3bHgDuRjtYsk0qZekimcVkymvgkcqmdyJdPQX9NrO6EgGa-pQn8Rl9duTw"
+}
