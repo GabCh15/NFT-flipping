@@ -1,7 +1,16 @@
 import Image from "next/image"
+import { useState } from "react";
 import Button from "../Button"
 
 const Form = () => {
+  const max = 1000
+  const [value, setValue] = useState(1);
+
+  const handleChange = (event: any) => {
+    const value = Math.min(max, Number(event.target.value));
+    setValue(value);
+  };
+
   return (
     <form className="w-full grid grid-cols-2 md:grid-cols-8 gap-y-3">
       <div className="md:flex md:items-center md:col-span-4 py-2 bg-[#202429] rounded-l-xl">
@@ -10,6 +19,10 @@ const Form = () => {
           id="eth-to-lock"
           type="number"
           placeholder="0.0"
+          max={1000}
+          min={0}
+          //value={value}
+          //onChange={handleChange}
         />
       </div>
       <div className="md:flex md:flex-col md:items-center py-2 md:col-span-2 bg-[#202429] rounded-r-xl">
