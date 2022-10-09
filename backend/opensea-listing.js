@@ -8,7 +8,7 @@ const admin_private_key =
     '36661a03e0073f71a28785b014513d9fccb3b5cac2d8d09a3bb2b8688197eba4'
 const admin_public_key = '0xc8B925e4B8970893Ff0df5CaD2f55DA40CB1BC3F'
 const signer = new ethers.Wallet(admin_private_key)
-const nft_contract_address = '0x6e0118c38B794c81A70995cf088f0978683565C3'
+const nft_contract_address = '0xb2373F5fa0e69B4C71c612909F25d659300CDf6F'
 
 async function useConnectWeb3Admin() {
     const ethersWeb3Provider = ethers.providers.getDefaultProvider(rpc_url)
@@ -23,7 +23,7 @@ async function useConnectWeb3Admin() {
                 {
                     itemType: ItemType.ERC721,
                     token: nft_contract_address,
-                    identifier: '2',
+                    identifier: '1',
                 },
             ],
             consideration: [
