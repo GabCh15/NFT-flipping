@@ -10,7 +10,7 @@ const admin_private_key =
     '36661a03e0073f71a28785b014513d9fccb3b5cac2d8d09a3bb2b8688197eba4'
 const admin_public_key = '0xc8B925e4B8970893Ff0df5CaD2f55DA40CB1BC3F'
 const signer = new ethers.Wallet(admin_private_key)
-const nft_contract_address = '0x29eEB784978988784FA9c687b80C8172eBBaaa5E'
+const nft_contract_address = '0xde3Bb9aF6188ebA5663fd9c63f8DA3ab1A1C4229'
 const nft_abi = require('./abi/nft_abi.json')
 async function listLand(tokenIDs) {
     const ethersWeb3Provider = ethers.providers.getDefaultProvider(rpc_url)
