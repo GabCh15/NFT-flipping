@@ -1,0 +1,84 @@
+{
+    "_id": "62fba32c6a5a80ffc14c5d54",
+    "token_id": "12",
+    "__v": 0,
+    "current_price": {
+        "price": 18,
+        "eth_price": 18,
+        "symbol": "ETH"
+    },
+    "last_sale": {
+        "timestamp": 1540701983000,
+        "price": 11745,
+        "eth_price": 6.18855795,
+        "usd_price": 8191.4915249999995,
+        "symbol": "MANA"
+    },
+    "owner": {
+        "user": {
+            "username": "estebanrfp"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/4.png",
+        "address": "0xc9f9b6d99d605880c8dd85dbcbbe94e83af738a5",
+        "config": ""
+    },
+    "placed_orders": {
+        "listings": [
+            {
+                "price": 18,
+                "order_hash": "0x3639647ee1092f98528cc9081df3b8c1133fdd4888351db19268a5dc61de84f7",
+                "listing_time": 1664573561,
+                "expiration_time": 1667169161,
+                "created_date": "2022-09-30T21:36:20.142660",
+                "closing_date": "2022-10-30T22:32:41",
+                "maker": {
+                    "user": 4187842,
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/4.png",
+                    "address": "0xc9f9b6d99d605880c8dd85dbcbbe94e83af738a5",
+                    "config": ""
+                },
+                "taker": null,
+                "side": "ask",
+                "symbol": "ETH",
+                "eth_price": 18
+            }
+        ],
+        "offers": []
+    },
+    "traits": [
+        {
+            "trait_type": "X",
+            "value": 26,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 301,
+            "order": null
+        },
+        {
+            "trait_type": "Y",
+            "value": -101,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 301,
+            "order": null
+        },
+        {
+            "trait_type": "Distance to Road",
+            "value": 3,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 2842,
+            "order": null
+        },
+        {
+            "trait_type": "Type",
+            "value": "Land",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 92596,
+            "order": null
+        }
+    ],
+    "name": "Parcel -43,-104",
+    "image": "https://lh3.googleusercontent.com/ER3mMLQN1hMawKM6BSOmh7Jb2rThUq5aFZsmIYBg3TlYhPz4QNDfcfKeh3ecrXo_mC1UN8sSV31S4xpc647nPGsDlG7TfZN2ya75"
+}

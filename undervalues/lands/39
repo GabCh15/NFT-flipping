@@ -1,0 +1,100 @@
+{
+    "_id": "62fba35d6a5a80ffc14cf6ce",
+    "token_id": "39",
+    "__v": 0,
+    "current_price": {
+        "price": 3.33,
+        "eth_price": 3.33,
+        "symbol": "ETH"
+    },
+    "last_sale": {
+        "timestamp": 1629192845000,
+        "price": 1.157625,
+        "eth_price": 1.157625,
+        "usd_price": 1539.1203187499998,
+        "symbol": "WETH"
+    },
+    "owner": {
+        "user": {
+            "username": "ThrashToGold"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/18.png",
+        "address": "0xa9e7342fb0ca67f7a1300fc7cd80bf14481b207d",
+        "config": ""
+    },
+    "placed_orders": {
+        "listings": [
+            {
+                "price": 3.33,
+                "order_hash": "0xe6a3ffd20e5c4828e5199186d1b04ca12553dc671fd1f951abc1488bf193b88a",
+                "listing_time": 1664685796,
+                "expiration_time": 1667364196,
+                "created_date": "2022-10-02T04:45:34.586239",
+                "closing_date": "2022-11-02T04:43:16",
+                "maker": {
+                    "user": 1064025,
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/18.png",
+                    "address": "0xa9e7342fb0ca67f7a1300fc7cd80bf14481b207d",
+                    "config": ""
+                },
+                "taker": null,
+                "side": "ask",
+                "symbol": "ETH",
+                "eth_price": 3.33
+            }
+        ],
+        "offers": []
+    },
+    "traits": [
+        {
+            "trait_type": "Distance to District",
+            "value": 0,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 1099,
+            "order": null
+        },
+        {
+            "trait_type": "Distance to Road",
+            "value": 5,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 2397,
+            "order": null
+        },
+        {
+            "trait_type": "X",
+            "value": -46,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 301,
+            "order": null
+        },
+        {
+            "trait_type": "Distance to Plaza",
+            "value": 7,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 743,
+            "order": null
+        },
+        {
+            "trait_type": "Y",
+            "value": 79,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 314,
+            "order": null
+        },
+        {
+            "trait_type": "Type",
+            "value": "Land",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 92596,
+            "order": null
+        }
+    ],
+    "name": "Parcel -43,-104",
+    "image": "https://lh3.googleusercontent.com/E0J7ezgNel0aIQZg4xuHgIMznIZXBoVdU5hg-JVnlFJ2qQ8-BTLw8e0CLBmGSR6ioaok62OtR_L7qvGqMeyd_rc6igV6txA8H1qF"
+}

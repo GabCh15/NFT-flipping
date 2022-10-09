@@ -1,0 +1,81 @@
+{
+    "_id": "62fba3446a5a80ffc14caa10",
+    "token_id": "19",
+    "__v": 0,
+    "best_offered_price": {
+        "price": 1.5,
+        "eth_price": 1.5,
+        "symbol": ""
+    },
+    "current_price": {
+        "price": 1.97,
+        "eth_price": 1.97,
+        "symbol": "ETH"
+    },
+    "last_sale": {
+        "timestamp": 1661135313000,
+        "price": 1.5,
+        "eth_price": 1.5,
+        "usd_price": 1995.585,
+        "symbol": "WETH"
+    },
+    "owner": {
+        "user": {
+            "username": null
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/16.png",
+        "address": "0xb6dd2c52bd87426541763722b31cdb4299676150",
+        "config": ""
+    },
+    "placed_orders": {
+        "listings": [
+            {
+                "price": 1.97,
+                "order_hash": "0xf3b85e7a3a0d482c5bc6df9291a8a1e8f178b96be05f268780f7d1691332c15e",
+                "listing_time": 1664141794,
+                "expiration_time": 1666733794,
+                "created_date": "2022-09-25T21:38:54.295127",
+                "closing_date": "2022-10-25T21:36:34",
+                "maker": {
+                    "user": 35397184,
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/16.png",
+                    "address": "0xb6dd2c52bd87426541763722b31cdb4299676150",
+                    "config": ""
+                },
+                "taker": null,
+                "side": "ask",
+                "symbol": "ETH",
+                "eth_price": 1.97
+            }
+        ],
+        "offers": []
+    },
+    "traits": [
+        {
+            "trait_type": "Y",
+            "value": -126,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 301,
+            "order": null
+        },
+        {
+            "trait_type": "X",
+            "value": 102,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 309,
+            "order": null
+        },
+        {
+            "trait_type": "Type",
+            "value": "Land",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 92596,
+            "order": null
+        }
+    ],
+    "name": "Parcel -43,-104",
+    "image": "https://lh3.googleusercontent.com/PXvtZ4SWiCQ_vGhmqe8aAlb_Mp7dK51gSd0AsNM03CPjXs9yZznMM-4y7_QqZJZRAEggRuDqH7oyJXMXFEgx43PuzQyKAexvuBdFUQ"
+}

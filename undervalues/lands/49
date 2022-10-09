@@ -1,0 +1,76 @@
+{
+    "_id": "62fba3746a5a80ffc14d2a60",
+    "token_id": "49",
+    "__v": 0,
+    "current_price": {
+        "price": 80,
+        "eth_price": 80,
+        "symbol": "ETH"
+    },
+    "last_sale": {
+        "timestamp": 1655489007000,
+        "price": 2.8,
+        "eth_price": 2.8,
+        "usd_price": 3776.584,
+        "symbol": "ETH"
+    },
+    "owner": {
+        "user": {
+            "username": "LloydSK"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/27.png",
+        "address": "0x47196017275c09327f891e0b59d5ba604faefb0a",
+        "config": ""
+    },
+    "placed_orders": {
+        "listings": [
+            {
+                "price": 80,
+                "order_hash": "0xcde1af9acf1000e7e1377b6bf2c3a5b81ee67588e5b30d6021423056cbcf7e1b",
+                "listing_time": 1655489091,
+                "expiration_time": 1671041091,
+                "created_date": "2022-06-17T18:07:43.100080",
+                "closing_date": "2022-12-14T18:04:51",
+                "maker": {
+                    "user": 720390,
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/27.png",
+                    "address": "0x47196017275c09327f891e0b59d5ba604faefb0a",
+                    "config": ""
+                },
+                "taker": null,
+                "side": "ask",
+                "symbol": "ETH",
+                "eth_price": 80
+            }
+        ],
+        "offers": []
+    },
+    "traits": [
+        {
+            "trait_type": "Type",
+            "value": "Land",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 92596,
+            "order": null
+        },
+        {
+            "trait_type": "X",
+            "value": -77,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 301,
+            "order": null
+        },
+        {
+            "trait_type": "Y",
+            "value": -114,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 301,
+            "order": null
+        }
+    ],
+    "name": "Parcel -43,-104",
+    "image": "https://lh3.googleusercontent.com/R-_-6JnKRBBAZ7JPM9rRY1Xw3Xs4z2PxoNNx_mCFATxwdtwZnlCJHQbe7rP2POy4oA7vRicfMCoRboiHgC54xtzGgNX2UDlUqdDRoEI"
+}

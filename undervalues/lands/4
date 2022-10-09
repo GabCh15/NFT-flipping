@@ -1,0 +1,92 @@
+{
+    "_id": "62fba32c6a5a80ffc14c508e",
+    "token_id": "4",
+    "__v": 0,
+    "current_price": {
+        "price": 8,
+        "eth_price": 8,
+        "symbol": "ETH"
+    },
+    "last_sale": {
+        "timestamp": 1629444864000,
+        "price": 8100,
+        "eth_price": 4.275099,
+        "usd_price": 5630.9094,
+        "symbol": "MANA"
+    },
+    "owner": {
+        "user": {
+            "username": "cliffnick24"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/10.png",
+        "address": "0x4a90e18f3e90074a820532a3da62b347ea86711b",
+        "config": ""
+    },
+    "placed_orders": {
+        "listings": [
+            {
+                "price": 8,
+                "order_hash": "0x198b1d175d26e1e5a1344256ce56f25cb933167ed2c6874fabc8551d0051b708",
+                "listing_time": 1655491323,
+                "expiration_time": 1671046923,
+                "created_date": "2022-06-17T18:45:23.456979",
+                "closing_date": "2022-12-14T19:42:03",
+                "maker": {
+                    "user": 1160839,
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/10.png",
+                    "address": "0x4a90e18f3e90074a820532a3da62b347ea86711b",
+                    "config": ""
+                },
+                "taker": null,
+                "side": "ask",
+                "symbol": "ETH",
+                "eth_price": 8
+            }
+        ],
+        "offers": []
+    },
+    "traits": [
+        {
+            "trait_type": "Distance to District",
+            "value": 1,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 1226,
+            "order": null
+        },
+        {
+            "trait_type": "Y",
+            "value": 56,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 301,
+            "order": null
+        },
+        {
+            "trait_type": "X",
+            "value": 115,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 309,
+            "order": null
+        },
+        {
+            "trait_type": "Distance to Road",
+            "value": 0,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 9876,
+            "order": null
+        },
+        {
+            "trait_type": "Type",
+            "value": "Land",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 92596,
+            "order": null
+        }
+    ],
+    "name": "Parcel -43,-104",
+    "image": "https://lh3.googleusercontent.com/_HMPq9o7JMSm14H_H4jbksVqrvHtQp0qjmePnnZp_l8HZ9cs7TFn7ZaTjDhKluDhJVg4UpqXfmwZq_ni2yzRVEZkXXUJfwkr_Yr7"
+}

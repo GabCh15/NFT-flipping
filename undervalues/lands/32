@@ -1,0 +1,70 @@
+{
+    "_id": "62fba3496a5a80ffc14cb76b",
+    "token_id": "32",
+    "__v": 0,
+    "current_price": {
+        "price": 16.8,
+        "eth_price": 16.8,
+        "symbol": "ETH"
+    },
+    "last_sale": null,
+    "owner": {
+        "user": {
+            "username": null
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/13.png",
+        "address": "0x3e35fa60139605345d18cf936af244a614afaa85",
+        "config": ""
+    },
+    "placed_orders": {
+        "listings": [
+            {
+                "price": 16.8,
+                "order_hash": "0xc073921178501e7162cb7abf65fc72b646fc2f70c2c59788beaf35d4d0457f5a",
+                "listing_time": 1660608363,
+                "expiration_time": 1668384363,
+                "created_date": "2022-08-16T00:06:47.314141",
+                "closing_date": "2022-11-14T00:06:03",
+                "maker": {
+                    "user": 36447079,
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/13.png",
+                    "address": "0x3e35fa60139605345d18cf936af244a614afaa85",
+                    "config": ""
+                },
+                "taker": null,
+                "side": "ask",
+                "symbol": "ETH",
+                "eth_price": 16.8
+            }
+        ],
+        "offers": []
+    },
+    "traits": [
+        {
+            "trait_type": "X",
+            "value": 108,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 309,
+            "order": null
+        },
+        {
+            "trait_type": "Y",
+            "value": -104,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 301,
+            "order": null
+        },
+        {
+            "trait_type": "Type",
+            "value": "Land",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 92596,
+            "order": null
+        }
+    ],
+    "name": "Parcel -43,-104",
+    "image": "https://lh3.googleusercontent.com/6VxwhkE6CY64QtNY6KgS5fMyp5w5gnb2p9NCy-fv2YVN_lkKB_9NMkB6i1vUF4rbmUW-RePctHh8JStt4liYWOWOyVnoC10wUP0MRg"
+}

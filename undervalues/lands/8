@@ -1,0 +1,76 @@
+{
+    "_id": "62fba32c6a5a80ffc14c57dd",
+    "token_id": "8",
+    "__v": 0,
+    "current_price": {
+        "price": 13,
+        "eth_price": 13,
+        "symbol": "ETH"
+    },
+    "last_sale": {
+        "timestamp": 1639080509000,
+        "price": 3750,
+        "eth_price": 1.9722374999999999,
+        "usd_price": 2615.9025,
+        "symbol": "MANA"
+    },
+    "owner": {
+        "user": {
+            "username": "lazylosangeles"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/23.png",
+        "address": "0x788b899bb88080d2b04108ac7f271e201c969fc4",
+        "config": ""
+    },
+    "placed_orders": {
+        "listings": [
+            {
+                "price": 13,
+                "order_hash": "0x8e84c9d16738f1b4507f2cb25deb17250b28fefc579e56697f33436f08b039f8",
+                "listing_time": 1662486304,
+                "expiration_time": 1665078304,
+                "created_date": "2022-09-06T17:47:41.820286",
+                "closing_date": "2022-10-06T17:45:04",
+                "maker": {
+                    "user": 8167586,
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/23.png",
+                    "address": "0x788b899bb88080d2b04108ac7f271e201c969fc4",
+                    "config": ""
+                },
+                "taker": null,
+                "side": "ask",
+                "symbol": "ETH",
+                "eth_price": 13
+            }
+        ],
+        "offers": []
+    },
+    "traits": [
+        {
+            "trait_type": "X",
+            "value": -57,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 301,
+            "order": null
+        },
+        {
+            "trait_type": "Y",
+            "value": -129,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 301,
+            "order": null
+        },
+        {
+            "trait_type": "Type",
+            "value": "Land",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 92596,
+            "order": null
+        }
+    ],
+    "name": "Parcel -43,-104",
+    "image": "https://lh3.googleusercontent.com/OB_WxHRsvscpJ-vua5rvd1deDGpnoEcVO6eu5NkXUsoK_32CUev0yKa3TEy0k33zsBIRFqVfn0IS3EUPXimpTX3GKQMXoBsC_lc52JU"
+}

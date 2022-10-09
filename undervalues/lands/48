@@ -1,0 +1,92 @@
+{
+    "_id": "62fba3746a5a80ffc14d298f",
+    "token_id": "48",
+    "__v": 0,
+    "current_price": {
+        "price": 10,
+        "eth_price": 10,
+        "symbol": "ETH"
+    },
+    "last_sale": {
+        "timestamp": 1658975523000,
+        "price": 2.25,
+        "eth_price": 2.25,
+        "usd_price": 3034.755,
+        "symbol": "ETH"
+    },
+    "owner": {
+        "user": {
+            "username": "The_Philosopher"
+        },
+        "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/33.png",
+        "address": "0xe330dc28b47d73884ad88837aecfee1f49ad7e7b",
+        "config": ""
+    },
+    "placed_orders": {
+        "listings": [
+            {
+                "price": 10,
+                "order_hash": "0x4707f1845bb50c7dd7ecadf32834758bb8120bd51773e88ba669d9218da31268",
+                "listing_time": 1662799797,
+                "expiration_time": 1678355397,
+                "created_date": "2022-09-10T04:52:15.068720",
+                "closing_date": "2023-03-09T09:49:57",
+                "maker": {
+                    "user": 549199,
+                    "profile_img_url": "https://storage.googleapis.com/opensea-static/opensea-profile/33.png",
+                    "address": "0xe330dc28b47d73884ad88837aecfee1f49ad7e7b",
+                    "config": ""
+                },
+                "taker": null,
+                "side": "ask",
+                "symbol": "ETH",
+                "eth_price": 10
+            }
+        ],
+        "offers": []
+    },
+    "traits": [
+        {
+            "trait_type": "Y",
+            "value": -148,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 301,
+            "order": null
+        },
+        {
+            "trait_type": "Distance to District",
+            "value": 9,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 1335,
+            "order": null
+        },
+        {
+            "trait_type": "Distance to Road",
+            "value": 1,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 4275,
+            "order": null
+        },
+        {
+            "trait_type": "X",
+            "value": 133,
+            "display_type": "number",
+            "max_value": null,
+            "trait_count": 309,
+            "order": null
+        },
+        {
+            "trait_type": "Type",
+            "value": "Land",
+            "display_type": null,
+            "max_value": null,
+            "trait_count": 92596,
+            "order": null
+        }
+    ],
+    "name": "Parcel -43,-104",
+    "image": "https://lh3.googleusercontent.com/kqHsVckUX5N3u3i0ILNbhzhq_8aeY0PRrA_gQ3FsvWqhD81obwg6d_fM-KmKe2RmRsL0RPq7z8URhCcUuhBGqbsnLOwq52Szpj-7vQ"
+}
